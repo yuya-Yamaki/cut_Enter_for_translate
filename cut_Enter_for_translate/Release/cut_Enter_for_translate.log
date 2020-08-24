@@ -1,0 +1,11 @@
+﻿  cut_Enter_for_translate.cpp
+D:\VisualStudio_\cut_Enter_for_translate\cut_Enter_for_translate\cut_Enter_for_translate.cpp(31,23): warning C4473: 'fscanf_s': 書式文字列として渡された引数が不足しています
+D:\VisualStudio_\cut_Enter_for_translate\cut_Enter_for_translate\cut_Enter_for_translate.cpp(31,23): message : プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+D:\VisualStudio_\cut_Enter_for_translate\cut_Enter_for_translate\cut_Enter_for_translate.cpp(31,23): message : 不足している可変個引数 2 が書式文字列 '%s' に必要です
+D:\VisualStudio_\cut_Enter_for_translate\cut_Enter_for_translate\cut_Enter_for_translate.cpp(31,23): message : この引数はバッファー サイズとして使用されます
+  コード生成しています。
+  1 of 8 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  cut_Enter_for_translate.vcxproj -> D:\VisualStudio_\cut_Enter_for_translate\Release\cut_Enter_for_translate.exe
